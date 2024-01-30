@@ -13,4 +13,17 @@ public class AppiumTest {
 	public void elementUI() {
 		System.out.println("elementUI");
 	}
+	@Test
+	public void browserAutomation2() {
+		System.out.println("browserAutomation");
+	}
+	@Test
+	public void browserAutomation3() {
+		System.out.println("browserAutomation");
+	}
+	@Test
+	public void browserAutomation4() {
+		System.out.println("browserAutomation");
+	}
+	
 }
